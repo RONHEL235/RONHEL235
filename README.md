@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronee Helepi</h1>
+<h1 align="center">Ronee Helepi</h1>
 <h3 align="center">Athlete, Developing Visual Artist and a Software Development Graduate with diverse skills in User-Centered Design Thinking, Front-End Development and Collaborative Leadership.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
@@ -6,8 +6,6 @@
 - 👨‍💻 All of my projects are available at [www.github.com/RONHEL235](www.github.com/RONHEL235)
 
 - 📝 I regularly write articles on [Learning and being a scientist](Learning and being a scientist)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **roneehelepi70@gmail.com**
 
