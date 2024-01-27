@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/RONHEL235](www.github.com/RONHEL235)
 
-- 📝 I regularly write articles on [Learning and being a scientist](Learning and being a scientist)
-
 - 📫 How to reach me **roneehelepi70@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
