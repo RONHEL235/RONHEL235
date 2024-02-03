@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [www.github.com/RONHEL235](www.github.com/RONHEL235)
-
 - 📫 How to reach me **roneehelepi70@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
