@@ -1,5 +1,5 @@
 <h1 align="center">Ronee Helepi</h1>
-<h3 align="center">As a dynamic professional, I am a Visual Artist and a Software Development graduate, bringing together a unique blend of creativity and technical expertise. With a strong foundation in User-Centered Design Thinking, I approach projects with a keen understanding of user needs and an innate ability to translate concepts into visually compelling experiences. My proficiency in Front-End Development allows me to bridge the gap between design and implementation, ensuring that user interfaces are not only aesthetically pleasing but also functionally robust. Beyond technical skills, I thrive in collaborative environments, leveraging my leadership abilities to foster teamwork and innovation. With a passion for both the artistic and technological realms, I am poised to contribute a multifaceted perspective to any project or team.</h3>
+<h3 align="center">As a dynamic professional, I am a Visual Artist and a Software Development graduate, bringing together a unique blend of creativity and technical expertise. With a strong foundation in User-Centered Design Thinking, I approach projects with a keen understanding of user needs and an innate ability to translate concepts into visually compelling experiences.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
