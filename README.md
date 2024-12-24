@@ -1,7 +1,7 @@
 <h1 align="center">Ronee Helepi</h1>
 <h3 align="center">As a dynamic professional, I am a writer and a Software Development graduate, bringing together a unique blend of creativity and technical expertise. With a strong foundation in User-Centered Design Thinking, I approach projects with a keen understanding of user needs and an innate ability to translate concepts into visually compelling experiences.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and delving into epistemology, exploring the nature of knowledge, its limits, and the relationship between perception, truth, and belief.
 
 - 📫 How to reach me **roneehelepi70@gmail.com**
 
